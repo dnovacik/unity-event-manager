@@ -1,0 +1,13 @@
+{
+  "name": "eu.cognision.unityeventmanager",
+  "version": "1.0.0",
+  "displayName": "Unity Event Manager",
+  "description": "Simple manager for events inside unity (listen and invoke)",
+  "unity": "2020.1",
+  "author": {
+    "name": "dnovacik",
+    "email": "novacik.daniel@gmail.com",
+    "url": "https://cognision.eu"
+  },
+  "type": "module"
+}
